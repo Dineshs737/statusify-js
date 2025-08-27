@@ -1,9 +1,12 @@
 {
   "name": "@uthayakumar-dinesh/statusify-js",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A package for managing and displaying status codes easily.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:Dineshs737/statusify-js.git"
